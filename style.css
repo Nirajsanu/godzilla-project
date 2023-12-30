@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+.text-body-light{
+    color: yellow;
+}
+.hover{
+    border-radius: 10%;
+}
+.hover:hover{
+    transform: scale(1.15);
+    transition: 0.3s;
+    border-radius: 50%;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+}
